@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+git init = inicializar o vincular el proyecto
+git add . = subir los archivos/carpetas del proyecto vinculados
+clear = limpiar comandos de GNU/Linux
+git commit -m "comentario" = agregar un comentario al proyecto
+git remote origin = el creado ah subido el proyecto
+git branch = autorizar para subir al repositorio
+git push origin = autoriza/sube el proyecto al repositorio con
+todas las carpetas
+=======
+git init = inicializar o vincular el proyecto
+git add . = subir los archivos/carpetas del proyecto vinculados
+clear = limpiar comandos de GNU/Linux
+git commit -m "comentario" = agregar un comentario al proyecto
+git remote origin = el creado ah subido el proyecto
+git branch = autorizar para subir al repositorio
+git push origin = autoriza/sube el proyecto al repositorio con
+todas las carpetas
+>>>>>>> 32e407d8f0975c3d4a11b714c3d382b7455dd74a
